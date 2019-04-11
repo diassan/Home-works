@@ -1,1 +1,1 @@
-#Projeject Sample [![Build Status](https://travis-ci.org/diassan/Home-works.svg?branch=master)](https://travis-ci.org/diassan/Home-works)
+# Project Sample [![Build Status](https://travis-ci.org/diassan/Home-works.svg?branch=master)](https://travis-ci.org/diassan/Home-works)[![codecov](https://codecov.io/gh/diassan/Home-works/branch/master/graph/badge.svg)](https://codecov.io/gh/diassan/Home-works)
